@@ -80,14 +80,6 @@ const paramDecryptor = (ciphertext)=>{
 // const originalText = bytes.toString(CryptoJS.enc.Utf8);
 
 var firebaseConfig = {
-    apiKey: "AIzaSyCUFu1sJ8RXO4rd0ONmC3IY24d-8z_7u90",
-    authDomain: "tt-firebase-back-end-stack.firebaseapp.com",
-    databaseURL: "https://tt-firebase-back-end-stack.firebaseio.com",
-    projectId: "tt-firebase-back-end-stack",
-    storageBucket: "tt-firebase-back-end-stack.appspot.com",
-    messagingSenderId: "694374768925",
-    appId: "1:694374768925:web:6dc718d98dec1de01ec1f4",
-    measurementId: "G-D29FV04KGV"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);

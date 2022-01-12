@@ -92,18 +92,3 @@ app.listen(4000, (req, res)=>{
 
 
 
-
-// Client ID
-// 694374768925-ba687fhm7gujbps9p4ga6s04aop6haof.apps.googleusercontent.com
-// Client secret
-// Flvu_OEOuDOU1cTT9k10Kdr0
-// Creation date
-// October 16, 2020 at 2:55:28 PM GMT+5
-
-
-// Client ID
-// 694374768925-ba687fhm7gujbps9p4ga6s04aop6haof.apps.googleusercontent.com
-// Client secret
-// Flvu_OEOuDOU1cTT9k10Kdr0
-// Creation date
-// October 16, 2020 at 2:55:28 PM GMT+5
