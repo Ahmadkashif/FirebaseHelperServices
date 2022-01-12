@@ -1,0 +1,24 @@
+{
+  "name": "tt_portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmadkashif/O_TT_portal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmadkashif/O_TT_portal/issues"
+  },
+  "homepage": "https://github.com/Ahmadkashif/O_TT_portal#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "firebase": "^7.23.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "tt_auth_service_google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmadkashif/O_TT_Auth_service_Google.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmadkashif/O_TT_Auth_service_Google/issues"
+  },
+  "homepage": "https://github.com/Ahmadkashif/O_TT_Auth_service_Google#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "firebase": "^7.24.0",
+    "firebase-admin": "^9.2.0",
+    "google-auth-library": "^6.1.1",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
